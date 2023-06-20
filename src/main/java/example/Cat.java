@@ -3,7 +3,7 @@ package example;
 import java.util.List;
 
 public class Cat {
-
+///метод для котов
     Predator predator;
 
     public Cat(Feline feline) {
